@@ -2,17 +2,17 @@
 
 ### 게임 설명 ###
 
-![image](turtle_runaway1.png)
+![image](turtle_runaway1.png){: width="100" height="100"}
 - 파랑 거북이가 빨강 거북이를 피해 도망다닙니다. 
 - 빨강 거북이(플레이어)는 제한시간 60초 이내에 파랑 거북이를 잡으러 다닙니다.
 
-![image](turtle_runaway2.png)
+![image](turtle_runaway2.png){: width="100" height="100"}
 - 한번 잡으면 점수는 100 단위로 획득하며 파랑 거북이는 빠르게 다시 도망 갑니다.
 - 게임이 끝날 때까지 많은 점수를 획득하는 것이 목표입니다.
 
 ### 게임오버 ###
 
-![image](turtle_runaway3.png)
+![image](turtle_runaway3.png){: width="100" height="100"}
 - 제한 시간 60초가 끝나면 화면 상에 Game Over 문구가 뜹니다.
 - 더 이상 파랑 거북이를 잡아도 점수를 획득하지 못합니다.
 
